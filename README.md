@@ -8,6 +8,4 @@ This repository contains:
 
 If you use this code in your research, please cite our paper:
 
-> Liu, S., Lang, X., Wu, J., Zhang, Y., Lei, C., & Su, H.  
-> **“Corrective variational mode decomposition to detect multiple oscillations in process control systems”**,  
-> *Control Engineering Practice*, 2025, 154: 106123.
+> Liu, S., Lang, X., Wu, J., Zhang, Y., Lei, C., & Su, H. **“Corrective variational mode decomposition to detect multiple oscillations in process control systems”**, *Control Engineering Practice*, 2025, 154: 106123.
